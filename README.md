@@ -59,32 +59,32 @@ Untuk Linux:
 ![screenshot](screenshots.jpeg)
 
 ### 1. Tampilan 1
-![screenshot 1](screenshots 1.jpeg)
+![screenshot%201](screenshots%201.jpeg)
 
 ### 2. Tampilan 2
-![screenshot 2](screenshots 2.jpeg)
+![screenshot%202.jpeg](screenshots%202.jpeg)
 
 ### 3. Tampilan 3
-![screenshot 3](screenshots 3.jpeg)
+![screenshot%203.jpeg](screenshots%203.jpeg)
 
 ### 4. Tampilan 4
-![screenshot 4](screenshots 4.jpeg)
+![screenshot%204.jpeg](screenshots%204.jpeg)
 
 ### 5. Tampilan 5
-![screenshot 5](screenshots 5.jpeg)
+![screenshot%205.jpeg](screenshots%205.jpeg)
 
 ### 6. Tampilan 6
-![screenshot 6](screenshots 6.jpeg)
+![screenshot%206.jpeg](screenshots%206.jpeg)
 
 ### 7. Tampilan 7
-![screenshot 7](screenshots 7.jpeg)
+![screenshot%207.jpeg](screenshots%207.jpeg)
 
 ### 8. Tampilan 8
-![screenshot 8](screenshots 8.jpeg)
+![screenshot%208.jpeg](screenshots%208.jpeg)
 
 ### 9. Tampilan 9
-![screenshot 9](screenshots 9.jpeg)
+![screenshot%209.jpeg](screenshots%209.jpeg)
 
 ### 10. Tampilan 10
-![screenshot 10](screenshots 10.jpeg)
+![screenshot%2010.jpeg](screenshots%2010.jpeg)
 
