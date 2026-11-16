@@ -62,29 +62,29 @@ Untuk Linux:
 ![screenshot%201](screenshots%201.jpeg)
 
 ### 2. Tampilan 2
-![screenshot%202.jpeg](screenshots%202.jpeg)
+![screenshot%202.jpeg](screenshot%202.jpeg)
 
 ### 3. Tampilan 3
-![screenshot%203.jpeg](screenshots%203.jpeg)
+![screenshot%203.jpeg](screenshot%203.jpeg)
 
 ### 4. Tampilan 4
-![screenshot%204.jpeg](screenshots%204.jpeg)
+![screenshot%204.jpeg](screenshot%204.jpeg)
 
 ### 5. Tampilan 5
-![screenshot%205.jpeg](screenshots%205.jpeg)
+![screenshot%205.jpeg](screenshot%205.jpeg)
 
 ### 6. Tampilan 6
-![screenshot%206.jpeg](screenshots%206.jpeg)
+![screenshot%206.jpeg](screenshot%206.jpeg)
 
 ### 7. Tampilan 7
-![screenshot%207.jpeg](screenshots%207.jpeg)
+![screenshot%207.jpeg](screenshot%207.jpeg)
 
 ### 8. Tampilan 8
-![screenshot%208.jpeg](screenshots%208.jpeg)
+![screenshot%208.jpeg](screenshot%208.jpeg)
 
 ### 9. Tampilan 9
-![screenshot%209.jpeg](screenshots%209.jpeg)
+![screenshot%209.jpeg](screenshot%209.jpeg)
 
 ### 10. Tampilan 10
-![screenshot%2010.jpeg](screenshots%2010.jpeg)
+![screenshot%2010.jpeg](screenshot%2010.jpeg)
 
