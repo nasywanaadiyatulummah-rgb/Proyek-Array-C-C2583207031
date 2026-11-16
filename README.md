@@ -55,29 +55,36 @@ Untuk Linux:
 
 ## Dokumentasi Pengujian
 
-### 1. Menambahkan Produk
-![What](screenshots/tambah-produk.png)
+###  Tampilan 
+![screenshot](screenshots.jpeg)
 
-### 2. Transaksi Penjualan
-![Transaksi](screenshots/transaksi.png)
+### 1. Tampilan 1
+![screenshot 1](screenshots 1.jpeg)
 
-### 3. Pembaruan Stok
-![Pembaruan Stok](screenshots/pembaruan-stok.png)
+### 2. Tampilan 2
+![screenshot 2](screenshots 2.jpeg)
 
-### 4. Pengujian Stok Tidak Cukup
-![Stok Tidak Cukup](screenshots/stok-tidak-cukup.png)
+### 3. Tampilan 3
+![screenshot 3](screenshots 3.jpeg)
 
-### 5. Laporan Penjualan
-![Laporan Penjualan](screenshots/laporan-penjualan.png)
+### 4. Tampilan 4
+![screenshot 4](screenshots 4.jpeg)
 
-### 6. Pengurutan Produk
-![Pengurutan](screenshots/pengurutan.png)
+### 5. Tampilan 5
+![screenshot 5](screenshots 5.jpeg)
 
-### 7. Pencarian Produk dan Pengecekan Stok
-![Pencarian dan Stok](screenshots/pencarian-stok.png)
+### 6. Tampilan 6
+![screenshot 6](screenshots 6.jpeg)
 
----
+### 7. Tampilan 7
+![screenshot 7](screenshots 7.jpeg)
 
-**Universitas Muhammadiyah Tasikmalaya**  
-Program Studi Pendidikan Teknologi Informasi  
-Tahun Akademik 2026/2027
+### 8. Tampilan 8
+![screenshot 8](screenshots 8.jpeg)
+
+### 9. Tampilan 9
+![screenshot 9](screenshots 9.jpeg)
+
+### 10. Tampilan 10
+![screenshot 10](screenshots 10.jpeg)
+
