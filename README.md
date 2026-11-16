@@ -56,7 +56,7 @@ Untuk Linux:
 ## Dokumentasi Pengujian
 
 ### 1. Menambahkan Produk
-![Tambah Produk](screenshots/tambah-produk.png)
+![What](screenshots/tambah-produk.png)
 
 ### 2. Transaksi Penjualan
 ![Transaksi](screenshots/transaksi.png)
