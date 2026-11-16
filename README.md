@@ -56,10 +56,10 @@ Untuk Linux:
 ## Dokumentasi Pengujian
 
 ###  Tampilan 
-![screenshot](screenshots.jpeg)
+![screenshot](screenshot.jpeg)
 
 ### 1. Tampilan 1
-![screenshot%201](screenshots%201.jpeg)
+![screenshot%201](screenshot%201.jpeg)
 
 ### 2. Tampilan 2
 ![screenshot%202.jpeg](screenshot%202.jpeg)
